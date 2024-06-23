@@ -36,3 +36,7 @@ logging:
 
 server:
   port: 9091
+
+email:
+  dummy:
+    property: "dummy-test"
